@@ -476,4 +476,3 @@ The project demonstrates how symbolic planning can represent:
 - automatic data loss.
 
 The classical PDDL problems focus on capacity-constrained planning, while the PDDL+ problems show how autonomous time-dependent processes can make a mission either feasible or impossible.
-````
